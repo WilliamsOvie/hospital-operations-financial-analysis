@@ -14,6 +14,15 @@ The analysis focuses on patient admission patterns, average length of stay, depa
 
 **Tools:** Microsoft Excel, XLOOKUP, PivotTables, PivotCharts, slicers, timelines, and Excel formulas.
 
+## Data Source
+
+**Dataset:** Hospital HMIS Dataset for Healthcare Analytics  
+**Source:** [Kaggle – shalakagangurde](https://www.kaggle.com/datasets/shalakagangurde/hospital-hmis-dataset-for-healthcare-analytics/data)
+
+This project uses a synthetic hospital management dataset obtained from Kaggle. The dataset contains simulated hospital admissions, patient information, departmental activity and billing records.
+
+The data was integrated and analysed using Microsoft Excel. All records are synthetic and do not represent real patients or hospitals.
+
 ## Key Performance Indicators
 
 | KPI | Value |
